@@ -7,4 +7,5 @@ Zawartość repozytorium:
 📄 Praca z plikami tekstowymi – odczyt, zapis, manipulacja danymi
 🗄️ Współpraca z bazami danych MySQL i SQLite – zarządzanie danymi, zapytania SQL
 🤖 Zagadnienia AI – wprowadzenie do sztucznej inteligencji w Pythonie
+
 Projekty w tym repozytorium pomogą Ci zdobyć praktyczne doświadczenie w programowaniu i rozwiązywaniu rzeczywistych problemów. Niezależnie od tego, czy dopiero zaczynasz, czy chcesz zgłębić bardziej zaawansowane tematy, znajdziesz coś dla siebie! 🚀
